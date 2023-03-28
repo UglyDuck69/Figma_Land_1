@@ -40,6 +40,7 @@ body{
     color: white;
 }
 .button1{
+    border: 1px solid #FFFFFF;
     width: 139px;
     height: 52px;
     margin-left: 183px;
@@ -66,7 +67,7 @@ body{
 }
 .subline{
     font-family: graphik;
-        font-weight: 400;
+    font-weight: 400;
     font-size: 20px;
     color: #FFFFFF;
     line-height: 30px;
@@ -84,6 +85,7 @@ body{
     margin-top: 95px;
 }
 .button2{
+    border: none;
     background-color: #4452FE;
     width: 178px;
     height: 65px;
